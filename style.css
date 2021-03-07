@@ -1,0 +1,21 @@
+.image-3 {
+    height: 74px;
+    object-fit: cover;
+    pointer-events: auto;
+    transition: all 0.2s ease;
+    width: 61px;
+  }
+  .image-3:hover {
+    transform: translate(0, -5px);
+  }
+
+  .image-11 {
+    height: 114px;
+    object-fit: cover;
+    pointer-events: auto;
+    transition: all 0.5s ease;
+    width: 100px;
+  }
+  .image-11:hover {
+    transform: rotate(15deg);
+  }
